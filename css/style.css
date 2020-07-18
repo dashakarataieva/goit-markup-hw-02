@@ -28,7 +28,7 @@ body {
     color: var(--dark-color);
     text-decoration: none;
 }
-#web {
+.web {
     color: var(--accent-color);
 }
 .list {
